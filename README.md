@@ -1,7 +1,9 @@
 ### Hi there 👋, I am Debadatta Hembram
+
+I am an experienced software developer, with over 3 years of experince in shipping XR Applications built using unity. Apart from that I have also worked on Full-stack web apps using React and NodeJS
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevData49&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DevData49)](https://git.io/streak-stats)
 <!--
 **DevData49/DevData49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
