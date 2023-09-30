@@ -1,4 +1,6 @@
 ### Hi there 👋, I am Debadatta Hembram
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DevData49)](https://git.io/streak-stats)
 <!--
 **DevData49/DevData49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
